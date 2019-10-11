@@ -1,5 +1,10 @@
+/**
+ *  Implementation of the insertion sort algorithm
+ *  Author : Abdoulaye Diallo
+ *    
+ **/
+
 #include <iostream>
-#include <vector>
 
 void insertionSort(int a[], int n) {
     int i, key;
