@@ -1,3 +1,12 @@
+/**
+ * Implementation of the bubble sort algorithm in C/C++
+ * 
+ * Author: Abdoulaye Diallo
+ * 
+ * Time Complexity: O(n²) 
+*/
+
+
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>

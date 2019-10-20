@@ -1,3 +1,10 @@
+"""
+- Implementation of the bubble sort algorithm in python
+- Author: Abdoulaye Diallo
+- Time Complexity: O(n²)
+"""
+
+
 def bubbleSort(arr):
     n = len(arr)
     for i in range(n):
